@@ -1,0 +1,21 @@
+{
+  "name": "client",
+  "authors": [
+    "Hans Løken <hans@ebamse.net>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.0.2",
+    "babel": "*"
+  }
+}
